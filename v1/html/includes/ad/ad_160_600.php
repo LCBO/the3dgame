@@ -1,0 +1,1 @@
+<img src="<?= $setting['media_url'].'/'.$template['ad_160_600'].'?'.$setting['media_ver'];?>" />
